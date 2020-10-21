@@ -159,7 +159,7 @@ class App extends Component {
        
         <div> <h4>PLEASE SAVE THE DETAILS FOR FUTURE USE</h4>
         </div>
-        <a href="javascript:window.print()" class="prbtn">Print Page</a>
+       
      </div>
       );
     } //render
